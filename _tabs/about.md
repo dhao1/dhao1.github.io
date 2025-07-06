@@ -28,9 +28,9 @@ Here’s the breakdown that inspired it:
 
 ---
 
-## What This Site Is
+## 🌐 What This Site Is
 
-This space is a **meeting of minds** — a place where I think out loud, share what I’m learning, and experiment in public.  
+This space is a **Meeting of Minds** — a home where I speak my mind, share evolving insights, and bring ideas to life.
 
 Here you’ll find:
 
@@ -51,7 +51,7 @@ This site is part personal archive, part creative outlet, and part open door.
 
 ---
 
-## 🤝 Let's Connect
+## 🧠 Let's Connect
 
 If something here resonates with you — a post, an idea, or a question, I’d love to hear from you:
 
