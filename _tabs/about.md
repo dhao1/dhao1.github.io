@@ -53,7 +53,7 @@ This site is part personal archive, part creative outlet, and part open door.
 
 ## 🤝 Let's Connect
 
-If something here resonates with you — a post, an idea, or a question — I’d love to hear from you:
+If something here resonates with you — a post, an idea, or a question, I’d love to hear from you:
 
 - 📧 [Email](mailto:dhao1@binghamton.edu)  
 - 🐱 [GitHub](https://github.com/dhao1)  
@@ -61,6 +61,6 @@ If something here resonates with you — a post, an idea, or a question — I’
 - 🐦 [Twitter](https://twitter.com/HaoDuxiao)  
 - 📸 [Instagram](https://instagram.com/hao_duxiao)  
 
-Thanks for stopping by. Stay curious — and stay kind.
+Thanks for stopping by. Let's stay curious, and stay kind.
 
 > *“HAO DU you XIAO me?” — maybe this site is one way to start.*
