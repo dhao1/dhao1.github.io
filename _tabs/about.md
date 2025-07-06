@@ -49,12 +49,6 @@ I’m **HAO DU XIAO**, a self-organized living complex system, made in China.
 I’m many things: a learner, a builder, a listener, a question-asker.  
 This site is part personal archive, part creative outlet, and part open door.
 
-I believe in:
-- Learning in public  
-- Saying what we mean  
-- Finding beauty in clarity  
-- Building spaces that invite thought, not just attention  
-
 ---
 
 ## 🤝 Let's Connect
