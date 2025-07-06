@@ -3,11 +3,6 @@
 icon: fas fa-info-circle
 order: 4
 ---
----
-title: About
-icon: fas fa-info-circle
-order: 4
----
 
 # HAO DU you XIAO me?
 
