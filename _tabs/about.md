@@ -4,31 +4,69 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Welcome to my digital home — a place for conversation, curiosity, and creative expression.
+# HAO DU you XIAO me?
 
-This site is more than just a blog. It's a **meeting of minds** — a space for sharing thoughts, questions, stories, and experiments that don't always fit neatly into a tweet, a text, or a spreadsheet. Think of it as a constantly evolving notebook, garden, studio, and archive — all rolled into one.
+Welcome to my digital home — a personal website for curious minds, open hearts, and creative souls.
 
-## 🧭 What You'll Find Here
+The name of this site, **“HAO DU you XIAO me?”**, is a playful blend of English and Mandarin. It phonetically echoes the question:
 
-- 📝 **Blog posts** — on topics I care about, from tech and creativity to curiosity and growth.
-- 🎥 **Videos** — visual explorations, reflections, or whatever sparks interest.
-- 🧠 **Ideas** — not always polished, but always honest.
-- 💬 **Conversations** — because connection and dialogue matter.
+> **“How do you know me?”**
+
+But it’s also my name in plain sight — **HAO DU XIAO** — woven into the sentence.  
+It’s a small linguistic riddle, and also a deeper question:  
+**How do we come to know anyone?** Through words? Through stories? Through shared ideas?
+
+Here’s the breakdown that inspired it:
+
+| Word     | Chinese Character | English Meaning | Connection                                   |
+|----------|-------------------|------------------|----------------------------------------------|
+| **HAO**  | 郝                 | "How"           | Similar pronunciation (homophone in English) |
+| **DU**   | 读                 | "Do"            | Similar pronunciation                        |
+| **you**  | —                 | "You"           | Direct English word                          |
+| **XIAO** | 晓                 | "Know"          | Same meaning in Chinese (晓 = to know)        |
+| **me?**  | —                 | "Me?"           | Direct English                               |
 
 ---
 
-## 💬 Why “Meeting of Minds”?
+## What This Site Is
 
-The internet is often noisy, fast, and transactional. This space is my antidote — a slower, deeper, more meaningful space for:
+This space is a **meeting of minds** — a place where I think out loud, share what I’m learning, and experiment in public.  
 
-- Exploring thoughts that need room to breathe  
-- Connecting with others who are curious, kind, and thoughtful  
-- Documenting not just what I know, but what I'm still learning  
+Here you’ll find:
 
-It’s a reminder that **thoughtful digital spaces still matter** — and that real connection can start with a single shared idea.
+- **Blog posts** on technology, creativity, identity, and reflection  
+- **Videos** that bring ideas to life visually  
+- **Ideas, questions, and experiments** in progress — raw, evolving, real  
+- Moments of insight, curiosity, or just human connection  
+
+It’s not about having answers. It’s about making home for thoughts, and inviting others to think along.
 
 ---
 
-## 👋 About Me
+## 👋 Who I Am
 
-Hi, I'm Duxiao Hao, a living complex system, made in China. 
+I’m **HAO DU XIAO**, a self-organized living complex system, made in China. 
+I’m many things: a learner, a builder, a listener, a question-asker.  
+This site is part personal archive, part creative outlet, and part open door.
+
+I believe in:
+- Learning in public  
+- Saying what we mean  
+- Finding beauty in clarity  
+- Building spaces that invite thought, not just attention  
+
+---
+
+## 🤝 Let's Connect
+
+If something here resonates with you — a post, an idea, or a question, I’d love to hear from you.
+
+- 📧 [Email](dhao1@binghamton.edu)  
+- 🐱 [GitHub](https://github.com/dhao1)  
+- ▶️ [YouTube](https://youtube.com/@haoduxiao)  
+- 🐦 [Twitter](https://twitter.com/HaoDuxiao)  
+- 📸 [Instagram](https://instagram.com/hao_duxiao)   
+
+Thanks for stopping by. Stay curious — and stay kind.
+
+> *“HAO DU you XIAO me?” - maybe this site is one way to start.*
