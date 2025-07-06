@@ -3,6 +3,11 @@
 icon: fas fa-info-circle
 order: 4
 ---
+---
+title: About
+icon: fas fa-info-circle
+order: 4
+---
 
 # HAO DU you XIAO me?
 
@@ -20,11 +25,11 @@ Here’s the breakdown that inspired it:
 
 | Word     | Chinese Character | English Meaning | Connection                                   |
 |----------|-------------------|------------------|----------------------------------------------|
-| **HAO**  | 郝                 | "How"           | Similar pronunciation (homophone in English) |
-| **DU**   | 读                 | "Do"            | Similar pronunciation                        |
-| **you**  | —                 | "You"           | Direct English word                          |
-| **XIAO** | 晓                 | "Know"          | Same meaning in Chinese (晓 = to know)        |
-| **me?**  | —                 | "Me?"           | Direct English                               |
+| **HAO**  | 郝                 | "How"            | Similar pronunciation (homophone in English) |
+| **DU**   | 读                 | "Do"             | Similar pronunciation                        |
+| **you**  | —                 | "You"            | Direct English word                          |
+| **XIAO** | 晓                 | "Know"           | Same meaning in Chinese (晓 = to know)        |
+| **me?**  | —                 | "Me?"            | Direct English                               |
 
 ---
 
@@ -45,7 +50,7 @@ It’s not about having answers. It’s about making home for thoughts, and invi
 
 ## 👋 Who I Am
 
-I’m **HAO DU XIAO**, a self-organized living complex system, made in China. 
+I’m **HAO DU XIAO**, a self-organized living complex system, made in China.  
 I’m many things: a learner, a builder, a listener, a question-asker.  
 This site is part personal archive, part creative outlet, and part open door.
 
@@ -53,14 +58,14 @@ This site is part personal archive, part creative outlet, and part open door.
 
 ## 🤝 Let's Connect
 
-If something here resonates with you — a post, an idea, or a question, I’d love to hear from you.
+If something here resonates with you — a post, an idea, or a question — I’d love to hear from you:
 
-- 📧 [Email](dhao1@binghamton.edu)  
+- 📧 [Email](mailto:dhao1@binghamton.edu)  
 - 🐱 [GitHub](https://github.com/dhao1)  
 - ▶️ [YouTube](https://youtube.com/@haoduxiao)  
 - 🐦 [Twitter](https://twitter.com/HaoDuxiao)  
-- 📸 [Instagram](https://instagram.com/hao_duxiao)   
+- 📸 [Instagram](https://instagram.com/hao_duxiao)  
 
 Thanks for stopping by. Stay curious — and stay kind.
 
-> *“HAO DU you XIAO me?” - maybe this site is one way to start.*
+> *“HAO DU you XIAO me?” — maybe this site is one way to start.*
