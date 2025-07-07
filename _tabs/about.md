@@ -56,7 +56,7 @@ This site is part personal archive, part creative outlet, and part open door.
 If something here resonates with you — a post, an idea, or a question, I’d love to hear from you:
 
 - 📧 [Email](mailto:dhao1@binghamton.edu)
-- 🔗 [LinkedIn](www.linkedin.com/in/duxiao-hao)   
+- 🔗 [LinkedIn](https://www.linkedin.com/in/duxiao-hao/)   
 - 🐱 [GitHub](https://github.com/dhao1)  
 - ▶️ [YouTube](https://youtube.com/@haoduxiao)  
 - 🐦 [Twitter](https://twitter.com/HaoDuxiao)  
