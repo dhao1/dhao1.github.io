@@ -46,7 +46,7 @@ It’s not about having answers. It’s about making home for thoughts, and invi
 ## 👋 Who I Am
 
 I’m **HAO DU XIAO**, a self-organized living complex system, made in China.  
-I’m many things: a learner, a builder, a listener, a question-asker.  
+I’m many things: a learner, a builder, a listener, a question asker, and a problem solver.  
 This site is part personal archive, part creative outlet, and part open door.
 
 ---
